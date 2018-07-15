@@ -3,7 +3,7 @@
 
 * Join our Slack at [slack.spreecommerce.com](http://slack.spreecommerce.com/)
 * [Extensions](https://github.com/spree-contrib)
-* [Documentation](http://guides.spreecommerce.com)
+* [Documentation](http://guides.spreecommerce.org)
 * Spree success stories from [OpenCommerce Conf](http://opencommerceconf.org/)
 * [2016 Development Roadmap](https://github.com/spree/spree/wiki/Spree-Commerce-development-roadmap-2016)
 
@@ -17,7 +17,7 @@ was originally developed by Sean Schofield and is now maintained by developers f
 
 Spree consists of several different gems, each of which are maintained
 in a single repository and documented in a single set of
-[online documentation](http://guides.spreecommerce.com/).
+[online documentation](http://guides.spreecommerce.org/).
 
 * spree_api (RESTful API)
 * spree_frontend (Customer frontend)
